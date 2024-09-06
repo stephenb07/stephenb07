@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">A developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenb07&label=Profile%20views&color=0e75b6&style=flat" alt="stephenb07" /> </p>
 
